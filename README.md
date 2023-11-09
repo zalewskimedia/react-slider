@@ -1,6 +1,6 @@
 # React Slider
 
-A simple [React](https://react.dev/) and [Tailwind CSS](https://tailwindcss.com/) slider
+A simple [React](https://react.dev/) and [Tailwind CSS](https://tailwindcss.com/) slider with autoplay functionality.
 
 ## How to use
 
