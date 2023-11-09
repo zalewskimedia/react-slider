@@ -1,6 +1,6 @@
 # React Slider
 
-A simple react slider
+A simple [React](https://react.dev/) and [Tailwind CSS](https://tailwindcss.com/) slider
 
 ## How to use
 
